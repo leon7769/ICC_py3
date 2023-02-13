@@ -1,0 +1,4 @@
+-e DEBUG
+-e debug
+-i BDIAC
+-L trace

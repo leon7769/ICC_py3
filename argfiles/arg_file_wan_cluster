@@ -1,0 +1,10 @@
+-e debug
+-e modifying
+-e WAN_link_info
+-i WAN_sla_policy
+-i WAN_app_strategy
+-i WAN_appdefined
+-i WAN_link_info
+-i WAN_dev_addmanage
+-i WAN_dev_other
+-i WAN_dev_rule

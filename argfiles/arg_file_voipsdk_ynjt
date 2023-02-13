@@ -1,0 +1,12 @@
+-e CTL
+-e MPUPV4_install
+-e MPUPV4_scanf
+-e MPUPV4_init
+-e MPUPV4_import_license
+-e MPUPV4_system_log
+-e MPUPV4_wechat
+-e NM_dev_init
+-e nm_perf
+-e DEBUG
+-L trace
+-i voipsdk

@@ -1,0 +1,3 @@
+-e DEBUG
+-i KUBOARD_host_mgt
+-i KUBOARD_cluster_mgt

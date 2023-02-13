@@ -1,0 +1,29 @@
+-e DEBUG
+-e debug
+-L trace
+
+-i rcsp_num_blackwhite_in
+-i rcsp_num_blackwhite_out
+
+-e rcsp_blackwhitelist_manager_add
+-e rcsp_blackwhitelist_manager_modify
+-e rcsp_blackwhitelist_manager_query
+-e rcsp_blackwhitelist_manager_delete
+
+-i rcsp_blackwhitelist_manager_business
+
+-e 251953
+-e 251963
+-e 251964
+-e 251971
+-e 251980
+-e 251993
+-e 251942
+-e 251942
+-e 350839
+-e 350928
+-e 350931
+-e 350933
+-e 350938
+-e 350944
+-e 350940

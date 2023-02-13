@@ -1,0 +1,3 @@
+-e DEBUG
+-L trace
+-i UCA_ios_open_app

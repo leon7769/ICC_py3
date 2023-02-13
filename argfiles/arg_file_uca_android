@@ -1,0 +1,3 @@
+-e DEBUG
+-L trace
+-i UCA_android_open_app
